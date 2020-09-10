@@ -10,7 +10,7 @@ along with pianist Minako Koyagi and percussionist Takako Yamaguchi.[^1]
 Premiere information: Premiered on Mar. 21, 1994, by the Yomiuri
 Symphony Orchestra (conductor: Masahiko Enkoji).[^2]
 
-Publication: This piece is published by ASKS Orchestra (https://asks-orch.com/).
+Publication: This piece is published by ASKS Orchestra (<https://asks-orch.com/>).
 
 Recording history: Nobuya Sugawa has recorded this concerto twice (TOCE-9152, CHAN-9737).
 There don't appear to be any other significant recordings.
@@ -26,7 +26,7 @@ sections of free jazz imitation, illustrates these characteristics well.
 
 The piece is also interesting because while it predominantly features the saxophone,
 the piano and drumset/percussion are also afforded significant solo roles.
-Yoshimatsu describes it as being "a kind of triple concerto"[^1].
+Yoshimatsu describes it as being "a kind of triple concerto." [^3]
 
 ## Analysis
 
@@ -40,7 +40,7 @@ Instead, the main theme is presented several times, each time in a different way
 usually separated by atmospheric interludes.
 
 Yoshimatsu describes this movement as "a somewhat frenzied Allegro in which a bird
-flies through strata of varying colours"[^1] - presumably, the saxophone is the bird,
+flies through strata of varying colours" - presumably, the saxophone is the bird,
 and the orchestra, driven by the piano and drums, produce the changing colors.
 
 The "A" theme presented in the saxophone and piano starts as follows:
@@ -105,6 +105,8 @@ TODO - Recording review
 
 ## Footnotes
 
-[^1]: Yoshimatsu, Takashi. Liner notes to <i>Yoshimatsu: Symphony No. 3 · Saxophone Concerto</i>. CD CHAN 9737. Chandos Records, 1999. https://www.chandos.net/chanimages/Booklets/CH9737.pdf
+[^1]: Yoshimatsu, Takashi. Liner notes to *Yoshimatsu: Symphony No. 3 · Saxophone Concerto*. CD CHAN 9737. Chandos Records, 1999. <https://www.chandos.net/chanimages/Booklets/CH9737.pdf>
 
-[^2]: "Works," Yoshimatsu Takashi Home Page. Composer's website. http://yoshim.music.coocan.jp/~data/EnglishPage/worksE.html
+[^2]: "Works," Yoshimatsu Takashi Home Page. Composer's website. <http://yoshim.music.coocan.jp/~data/EnglishPage/worksE.html>
+
+[^3]: See source 1.
