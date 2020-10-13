@@ -1,6 +1,8 @@
 # 吉松 隆 Yoshimatsu, Takashi - "Cyber-bird" Concerto, Op. 59
 
-## Historical information
+## Background information
+
+Solo instruments: Alto saxophone, piano, percussion
 
 Composed: Fall 1993 - Spring 1994
 
@@ -10,7 +12,7 @@ along with pianist Minako Koyagi and percussionist Takako Yamaguchi \[[^1]\].
 Premiere information: Premiered on Mar. 21, 1994, by the Yomiuri
 Symphony Orchestra (conductor: Masahiko Enkoji) \[[^2]\].
 
-Publication: This piece is published by ASKS Orchestra (<https://asks-orch.com/>).
+Published by: ASKS Orchestra (<https://asks-orch.com/>).
 
 Recording history: Nobuya Sugawa has recorded this concerto twice (TOCE-9152, CHAN-9737).
 There don't appear to be any other significant recordings.
@@ -26,7 +28,8 @@ sections of free jazz imitation, illustrates these characteristics well.
 
 The piece is also interesting because while it predominantly features the saxophone,
 the piano and drumset/percussion are also afforded significant solo roles.
-Yoshimatsu describes it as being "a kind of triple concerto" \[[^3]\].
+Yoshimatsu describes it as being "a kind of triple concerto" for these
+three instruments \[[^3]\].
 
 ## Analysis
 
@@ -114,7 +117,7 @@ feel really energetic; he also brings an appropriate sense of style to the jazz-
 sections of the piece, and again shows off his expressive sense during the lyrical moments.
 (Needless to say, I like this recording a lot.)
 
-## Footnotes
+## References
 
 [^1]: Yoshimatsu, Takashi. Liner notes to *Yoshimatsu: Symphony No. 3 · Saxophone Concerto*. CD CHAN 9737. Chandos Records, 1999. <https://www.chandos.net/chanimages/Booklets/CH9737.pdf>
 

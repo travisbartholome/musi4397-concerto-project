@@ -1,6 +1,8 @@
 # 武満 徹 Takemitsu, Toru - A String Around Autumn
 
-## Historical information
+## Background information
+
+Solo instrument: viola
 
 Composed: 1989
 
@@ -22,6 +24,11 @@ Philharmonic (soloist: Kazuki Yamada, reference: OVCL-00644).
 
 ## Significance
 
+Takemitsu is probably one of the most well-known Japanese composers in America.
+He wrote many pieces that could be considered concertos (i.e., they feature
+some solo instrument(s) with an orchestra), of which *A String of Autumn* seems
+to be one of the best known.
+
 This work was composed by commission for the 1989 Festival d’Automne à Paris,
 which commemorated the 200th anniversary of the French Revolution.
 Since it was written for a French commissioning group, Takemitsu wrote a work
@@ -30,7 +37,7 @@ which makes this an interesting work to show how those influences
 affected his compositions.
 The work is also quite representative of Takemitsu's orchestral style in general;
 the music is pan-tonal and has an ethereal quality to it that evokes
-some sense of abstract beauty, as do many of his other works.
+some sense of abstract beauty and rich, colorful sound, as do many of his other works.
 Takemitsu described this particular piece as an "imaginary landscape"
 depicting an autumn scene \[[^4]\].
 
@@ -68,7 +75,7 @@ Recording information \[[^6]\]:
 
 TODO - commentary
 
-## Footnotes
+## References
 
 [^1]: Utah Symphony. "Takemitsu – A String Around Autumn: Viola Concerto." February 16, 2012. <https://utahsymphony.org/explore/2012/02/takemitsu-a-string-around-autumn-viola-concerto/>
 
