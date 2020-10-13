@@ -23,3 +23,10 @@ by New York-based group Music From Japan, as an example.
 If the idea of writing about contemporary Japanese works doesn't seem like a good direction,
 my other thought was just to write about contemporary saxophone concertos.
 At any rate, that should be more familiar, although I had hoped to explore some less familiar music.
+
+## Further reading
+
+### Takemitsu
+
+Toru Takemitsu : a bio-bibliography. By Siddons, James.
+Available in the UH music library.
