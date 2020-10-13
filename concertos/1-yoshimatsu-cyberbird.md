@@ -5,10 +5,10 @@
 Composed: Fall 1993 - Spring 1994
 
 Important people: The piece was commissioned by saxophonist Nobuya Sugawa, to be played by him
-along with pianist Minako Koyagi and percussionist Takako Yamaguchi.[^1]
+along with pianist Minako Koyagi and percussionist Takako Yamaguchi \[[^1]\].
 
 Premiere information: Premiered on Mar. 21, 1994, by the Yomiuri
-Symphony Orchestra (conductor: Masahiko Enkoji).[^2]
+Symphony Orchestra (conductor: Masahiko Enkoji) \[[^2]\].
 
 Publication: This piece is published by ASKS Orchestra (<https://asks-orch.com/>).
 
@@ -26,7 +26,7 @@ sections of free jazz imitation, illustrates these characteristics well.
 
 The piece is also interesting because while it predominantly features the saxophone,
 the piano and drumset/percussion are also afforded significant solo roles.
-Yoshimatsu describes it as being "a kind of triple concerto." [^3]
+Yoshimatsu describes it as being "a kind of triple concerto" \[[^3]\].
 
 ## Analysis
 
@@ -77,6 +77,8 @@ The "A" theme presented in the saxophone and piano starts as follows:
 
 This movement starts at 8:48 in the recording (which has all movements combined).
 
+TODO - Movement description (like for mvt. 1)
+
 TODO - Incipit
 
 8:48 - Piano presents mournful "A" material
@@ -91,6 +93,8 @@ TODO - Incipit
 
 ### III. Bird in the Wind
 
+TODO - Movement description (like for mvt. 1)
+
 TODO - Incipit
 
 TODO - Analysis
@@ -101,7 +105,14 @@ TODO - Analysis
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Xp9zhpuRlUw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-TODO - Recording review
+Sugawa's recordings (on two different CDs) seem to be the only published recordings of this piece.
+Yoshimatsu and Sugawa have a fairly long history of collaboration that has produced several
+excellent pieces for saxophone, so Sugawa seems to bring a uniquely authentic interpretation to
+Yoshimatsu's works.
+His sense for expression and somewhat unrestrained playing make the wilder parts of this concerto
+feel really energetic; he also brings an appropriate sense of style to the jazz-influenced
+sections of the piece, and again shows off his expressive sense during the lyrical moments.
+(Needless to say, I like this recording a lot.)
 
 ## Footnotes
 
