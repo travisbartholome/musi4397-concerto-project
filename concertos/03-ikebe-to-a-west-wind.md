@@ -35,7 +35,23 @@ for unique combinations of sound masses - also an interesting piece.)
 
 ## Analysis
 
-TODO
+Timestamps refer to the recording linked below (CMCD-99083～4).
+
+Note that this concerto is in three unnamed movements (TODO: provide timestamps for movements).
+
+### Mvt. 1
+
+- 0:00 | Orchestral opening, with a simple melody in the oboe
+- 0:24 | Solo piano states its first theme
+- 0:27 | Orchestra returns with its opening theme (now in bassoon). Some slight development
+- 0:40 | Solo piano restates its theme and develops it slightly as well
+- 0:51 | Piano and orchestra play together, each seeming to develop on their own thematic ideas
+- 1:06 | Solo piano chordal interlude
+- 1:12 | Piano and orchestra together again; piano takes the orchestra's opening theme. Piano rhythm speeds up and morphs into repeated patterns
+- 1:39 | Thematic return?
+- 1:45 | Piano variation on the opening orchestral theme (bass line), with large intervals and dense rhythms
+
+TODO - finish analysis of this and remaining movements
 
 ## Recordings
 
