@@ -1,5 +1,11 @@
 # 
 
+https://www.youtube.com/watch?v=Lpkykc0AkqM
+
+http://www.m-miki.com/en/profile.html (composer website (?))
+
+https://brianzator.com/?page=storeItem&id=32
+
 ## Background information
 
 Solo instrument: TODO

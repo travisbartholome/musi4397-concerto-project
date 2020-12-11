@@ -26,8 +26,8 @@ Philharmonic (soloist: Kazuki Yamada, reference: OVCL-00644).
 
 Takemitsu is probably one of the most well-known Japanese composers in America.
 He wrote many pieces that could be considered concertos (i.e., they feature
-some solo instrument(s) with an orchestra), of which *A String of Autumn* seems
-to be one of the best known.
+some solo instrument(s) with an orchestra), of which *A String Around Autumn*
+is probably one of the best known.
 
 This work was composed by commission for the 1989 Festival d’Automne à Paris,
 which commemorated the 200th anniversary of the French Revolution.
