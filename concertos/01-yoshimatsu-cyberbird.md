@@ -17,7 +17,7 @@ Published by: ASKS Orchestra (<https://asks-orch.com/>).
 Recording history: Nobuya Sugawa has recorded this concerto twice (TOCE-9152, CHAN-9737).
 There don't appear to be any other significant recordings.
 
-## Significance
+## Further information
 
 Yoshimatsu has written quite a few concertos (10) for a variety of solo instruments,
 so it seemed appropriate to include one on this list.

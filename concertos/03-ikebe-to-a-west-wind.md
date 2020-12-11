@@ -18,7 +18,7 @@ and was released on CD in 2014 (CMCD-99083～4).
 
 Source for this information: \[[^1]\]
 
-## Significance
+## Further information
 
 Ikebe is a prolific composer in multiple contexts: in addition to dozens of concert
 works, he's written film scores and incidental music.

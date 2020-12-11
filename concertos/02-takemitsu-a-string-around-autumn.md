@@ -22,7 +22,7 @@ Other recordings include one from 2002 by the BBC National Orchestra of Wales
 (soloist: Philip Dukes, reference: BIS-CD-1300) and a 2017 CD by the Japan
 Philharmonic (soloist: Kazuki Yamada, reference: OVCL-00644).
 
-## Significance
+## Further information
 
 Takemitsu is probably one of the most well-known Japanese composers in America.
 He wrote many pieces that could be considered concertos (i.e., they feature

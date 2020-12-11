@@ -14,9 +14,11 @@ Published by: TODO
 
 Recording history: TODO
 
-## Significance
+## Further information
 
-TODO
+TODO composer info
+
+TODO piece info
 
 ## Analysis
 
@@ -24,7 +26,19 @@ TODO
 
 ## Recordings
 
-TODO
+### Orchestra (year)
+
+TODO (format below)
+
+Recording information (citation):
+- (solo instrument): name
+- Conductor: name
+- Label: name
+- Reference number: number
+
+TODO embed
+
+TODO commentary
 
 ## References
 

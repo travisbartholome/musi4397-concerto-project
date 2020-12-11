@@ -20,7 +20,7 @@ Published by: TODO
 
 Recording history: TODO
 
-## Significance
+## Further information
 
 TODO
 
