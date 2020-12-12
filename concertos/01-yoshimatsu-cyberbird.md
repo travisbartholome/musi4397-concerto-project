@@ -48,7 +48,7 @@ and the orchestra, driven by the piano and drums, produce the changing colors.
 
 The "A" theme presented in the saxophone and piano starts as follows:
 
-![Incipit for the Cyber-bird Concerto, first movement.](../snippets/1-yoshimatsu-cyberbird/incipit-mvt1.png)
+![Incipit for the Cyber-bird Concerto, first movement.](../snippets/01-yoshimatsu-cyberbird/incipit-mvt1.png)
 
 0:00 - Solo saxophone and piano present the "A" theme
 

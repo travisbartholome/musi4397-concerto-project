@@ -16,7 +16,7 @@ with Simon Rattle conducting \[[^2]\].
 Published by: Schott Music
 
 Recording history: This piece was recorded by the Royal Scottish National
-Orchestra for a CD released in 2014 by Naxos (8.537239). There don't
+Orchestra for a 2014 CD by Naxos (8.537239). There don't
 appear to be any other released recordings.
 
 ## Further information
@@ -29,6 +29,11 @@ He is also a guest professor at the Tokyo College of Music.
 His work is acclaimed for its fusion of Eastern and Western ideas \[[^3]\]\[[^4]\].
 
 "Moment of Blossoming" is a musical representation of a lotus blossom flowering.
+The lotus, shown below, is an important symbol in many religions, particularly
+Buddhism (a common religion in Japan).
+
+<img src="../images/lotus-flower-on-water.png" alt="A lotus flower." width="560" /> \[[^5]\]
+
 Hosokawa writes, "The lotus ... roots take nourishment from deep beneath the mud,
 and its stalk passes straight up through the water ... [to bring] forth its beautiful
 jewel-like blossoms. Without the chaotic world of the mud, the blossom could not open
@@ -37,7 +42,7 @@ According to him, the lotus is often taken as a metaphor for human growth, and h
 interpretation is part of a traditional Japanese trend of finding connections between
 people and nature.
 In this piece, the horn is the flower/person, emerging from the orchestra which
-acts as the pond where the lotus blooms \[[^5]\].
+acts as the pond where the lotus blooms \[[^6]\].
 
 ## Analysis
 
@@ -101,7 +106,7 @@ the beginning of the work, which fades to nothing.
 
 ### Royal Scottish National Orchestra (2014)
 
-Recording information \[[^6]\]:
+Recording information \[[^7]\]:
 - Horn: Stefan Dohr
 - Conductor: Jun Märkl
 - Label: Naxos
@@ -121,12 +126,14 @@ larger ecosystem.
 
 [^1]: Hosokawa, Toshio. Liner notes to *Toshio Hosokawa: Orchestral Works, Vol. 1*. CD Naxos 8.537239. Naxos Records, 2014. Publicly available at <https://www.naxos.com/mainsite/blurbs_reviews.asp?item_code=8.573239&catNum=573239&filetype=About%20this%20Recording&language=English> (linked from <https://www.naxos.com/catalogue/item.asp?item_code=8.573239>).
 
-[^2]: Schott Music. "Horn Concerto -Moment of Blossoming-." Publisher's website. <https://en.schott-music.com/shop/horn-concerto-moment-of-blossoming-no277107>.html>
+[^2]: Schott Music. "Horn Concerto -Moment of Blossoming-." Publisher's website. <https://en.schott-music.com/shop/horn-concerto-moment-of-blossoming-no277107.html>
 
 [^3]: Naxos Records. "Toshio Hosokawa - Bio." <https://www.naxos.com/person/Toshio_Hosokawa/20268.htm>.
 
 [^4]: Berliner Philharmoniker. "Portrait: Toshio Hosokawa." <https://www.berliner-philharmoniker.de/en/titelgeschichten/20192020/toshio-hosokawa/>
 
-[^5]: See source 1.
+[^5]: Flower Glossary. "Lotus Flowers." <https://www.flowerglossary.com/lotus-flowers-meaning/>
 
 [^6]: See source 1.
+
+[^7]: See source 1.

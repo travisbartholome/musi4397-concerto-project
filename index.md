@@ -2,7 +2,9 @@
 
 This is a list of contemporary concertos by Japanese composers.
 
-Eventually, it should include one representative or interesting concerto from 15 different composers.
+It includes one concerto from 10 different composers, then dives deeper
+into the repertoire of some of the most prolific concerto composers in
+that group (each of whom have written 10+ concertos that have been recorded).
 
 ## Why?
 
@@ -24,6 +26,7 @@ So it's kind of fun to explore.
 
 ## Notes
 
-Since this is still a work in progress, I've left TODO comments on some things.
-Particularly, I've been putting off transcribing or digging up some of the incipits.
-A battle for another day.
+There are other significant Japanese concerto composers whose work I was
+unable to find a way to listen to (not available for streaming, recordings only
+sold on Japanese CDs that are expensive and would also have to be imported).
+So the composers represented here shouldn't be considered a complete list.
