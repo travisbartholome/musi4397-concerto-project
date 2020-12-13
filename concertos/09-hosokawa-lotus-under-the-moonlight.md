@@ -127,7 +127,11 @@ Recording information \[[^4]\]:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3SJeSgqtAN8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-TODO commentary
+This recording does an excellent job of capturing the textural shifts in the
+piece, much like in the recording of Hosokawa's horn concerto on the same CD.
+Both the orchestra and the soloist seem cognizant of their roles and are
+careful not to overwhelm each other, resulting in a blend that is overall
+very effective.
 
 ## References
 

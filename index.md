@@ -19,11 +19,17 @@ So it's kind of fun to explore.
 
 ## Works
 
-- [池辺 晋一郎 Ikebe, Shin-ichiro - “To a West Wind” Concerto](./concertos/03-ikebe-to-a-west-wind.md)
-- [細川 俊夫 Hosokawa, Toshio - Horn Concerto, "Moment of Blossoming"](./concertos/07-hosokawa-moment-of-blossoming.md)
-- [細川 俊夫 Hosokawa, Toshio - "Lotus under the moonlight"](./concertos/09-hosokawa-lotus-under-the-moonlight.md)
-- [武満 徹 Takemitsu, Toru - A String Around Autumn](./concertos/02-takemitsu-a-string-around-autumn.md)
-- [吉松 隆 Yoshimatsu, Takashi - "Cyber-bird" Concerto](./concertos/01-yoshimatsu-cyberbird.md)
+These works are organized in chronological order, to give some idea of
+how the composers relate to each other over time.
+
+Year |              Composer             | Solo instrument | Title and link
+:--: | :-------------------------------: | :-------------: | :------------:
+1967 | 矢代 秋雄 Yashiro, Akio            | Piano           | [Piano Concerto](./concertos/08-yashiro-piano-concerto.md)
+1989 | 武満 徹 Takemitsu, Toru            | Viola           | [A String Around Autumn](./concertos/02-takemitsu-a-string-around-autumn.md)
+1994 | 吉松 隆 Yoshimatsu, Takashi        | Alto saxophone  | ["Cyber-bird" Concerto](./concertos/01-yoshimatsu-cyberbird.md)
+2006 | 細川 俊夫 Hosokawa, Toshio         | Piano           | [Lotus under the moonlight](./concertos/09-hosokawa-lotus-under-the-moonlight.md)
+2010 | 細川 俊夫 Hosokawa, Toshio         | Horn            | [Horn Concerto, "Moment of Blossoming"](./concertos/07-hosokawa-moment-of-blossoming.md)
+2013 | 池辺 晋一郎 Ikebe, Shin-ichiro     | Piano left hand | [“To a West Wind” Concerto](./concertos/03-ikebe-to-a-west-wind.md)
 
 ## Notes
 
