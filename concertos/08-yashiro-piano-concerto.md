@@ -14,10 +14,10 @@ Hiroshi Wakasugi \[[^1]\].
 
 Published by: Ongaku no Tomo
 
-Recording history: The live (not broadcasted) premiere of the piece at the
-Tokyo Cultural Center in 1968 was recorded; this recording was re-released
-on CD by Naxos Japan in 2011 (NYNG-002), commemorating the 35th anniversary
-of Yashiro's death \[[^2]\].
+Recording history: The live premiere (different from the broadcast premiere)
+of the piece at the Tokyo Cultural Center in 1968 was recorded; this recording
+was re-released on CD by Naxos Japan in 2011 (NYNG-002), commemorating the
+35th anniversary of Yashiro's death \[[^2]\].
 The concerto was also recorded by the Ulster Orchestra for a CD released
 by Naxos in 2002 (8.555351).
 
@@ -27,15 +27,16 @@ Yashiro studied at the Tokyo National University of Fine Arts and Music (now
 Tokyo University of the Arts), and after graduating in 1951 he moved to France
 and studied at the Paris Conservatoire, eventually returning to Japan in 1956.
 He was known as a composer of music for documentaries and drama, and he composed
-only a handful of concert works (this concerto being one of them).
+only a handful of concert works including this one (he also wrote a cello concerto!).
 He was also an important mentor to the next generation of composers to emerge
 from his university in Tokyo, which included Shin-ichiro Ikebe, Akira Nishimura,
 and others.
 
 Yashiro's piano concerto is popular among works by Japanese composers, and it was
 very well-received after its premiere.
-It reflects the influence of Yashiro's French education.
-The concerto is in a typical form, with a sonata-form first movement, a slow
+It reflects the influence of Yashiro's French education, and it sounds modern
+while still being fairly understandable.
+The concerto is in a typical format, with a sonata-form first movement, a slow
 second movement, and a rondo-form finale \[[^3]\].
 
 ## Analysis
@@ -44,6 +45,9 @@ Timestamps refer to the recording linked below by the Ulster
 Orchestra (Naxos 8.555351).
 
 ### Allegro animato (i) (0:00)
+
+As mentioned before, this movement is in a typical sonata form, albeit
+one with a short development section.
 
 0:00 - Primary (P) theme.
 
@@ -119,6 +123,8 @@ So the movement ends like it began, but in reverse.
 
 ### Allegro - Andante - Vivace molto capriccioso (iii) (19:51)
 
+This movement appears to be in 5-part rondo form with a coda.
+
 19:51 - Movement begins with the rondo theme, which consists of aggressive
 string figures split by quiet brass.
 Only orchestra here.
@@ -164,7 +170,7 @@ Recording information \[[^4]\]:
 This recording is very clean.
 At times it can sound a bit clinical (particularly in the first movement),
 but generally the orchestra and piano do a great job of bringing out the
-drama and constrast inherent to the piece.
+drama inherent to the piece.
 They also take slightly faster tempos overall than the NHK recording, which
 makes for an exciting presentation in the outer movements (especially in the
 third movement).
@@ -177,7 +183,7 @@ Recording information \[[^5]\]:
 - Label: Naxos Japan
 - Reference number: NYNG-002
 
-This recording is available on Naxos: <https://www.naxos.com/catalogue/item.asp?item_code=NYNG-002>.
+Available on Naxos: <https://www.naxos.com/catalogue/item.asp?item_code=NYNG-002>.
 
 This recording feels a bit freer with tempo, and the entire group does a
 fantastic job of bringing out contrasts (dynamics, tempo, etc.).
