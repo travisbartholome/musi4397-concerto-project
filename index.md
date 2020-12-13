@@ -21,6 +21,7 @@ So it's kind of fun to explore.
 
 - [池辺 晋一郎 Ikebe, Shin-ichiro - “To a West Wind” Concerto](./concertos/03-ikebe-to-a-west-wind.md)
 - [細川 俊夫 Hosokawa, Toshio - Horn Concerto, "Moment of Blossoming"](./concertos/07-hosokawa-moment-of-blossoming.md)
+- [細川 俊夫 Hosokawa, Toshio - "Lotus under the moonlight"](./concertos/09-hosokawa-lotus-under-the-moonlight.md)
 - [武満 徹 Takemitsu, Toru - A String Around Autumn](./concertos/02-takemitsu-a-string-around-autumn.md)
 - [吉松 隆 Yoshimatsu, Takashi - "Cyber-bird" Concerto](./concertos/01-yoshimatsu-cyberbird.md)
 
