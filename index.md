@@ -2,7 +2,7 @@
 
 This is a list of contemporary concertos by Japanese composers.
 
-It includes one concerto from 10 different composers, then dives deeper
+It includes one concerto from several different composers, then dives deeper
 into the repertoire of some of the most prolific concerto composers in
 that group (each of whom have written 10+ concertos that have been recorded).
 
@@ -34,6 +34,7 @@ Year |              Composer             | Solo instrument | Title and link
 1997 | 吉松 隆 Yoshimatsu, Takashi        | Piano           | [Piano Concerto "Memo Flora," Op. 67](./concertos/13-yoshimatsu-memo-flora.md)
 2002 | 佐藤 聰明 Satoh, Somei             | Violin          | [Violin Concerto](./concertos/10-satoh-violin-concerto.md)
 2006 | 細川 俊夫 Hosokawa, Toshio         | Piano           | [Lotus under the moonlight](./concertos/09-hosokawa-lotus-under-the-moonlight.md)
+2009 | 細川 俊夫 Hosokawa, Toshio         | Shakuhachi      | [Voyage X, "Nozarashi"](./concertos/04-hosokawa-voyage-x.md)
 2010 | 細川 俊夫 Hosokawa, Toshio         | Horn            | [Horn Concerto, "Moment of Blossoming"](./concertos/07-hosokawa-moment-of-blossoming.md)
 2013 | 池辺 晋一郎 Ikebe, Shin-ichiro     | Piano left hand | [“To a West Wind” Concerto](./concertos/03-ikebe-to-a-west-wind.md)
 2017 | 藤倉 大 Fujikura, Dai              | Tuba            | [Tuba Concerto](./concertos/14-fujikura-tuba-concerto.md)

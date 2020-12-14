@@ -13,7 +13,7 @@ Concertgebouw, and the Barbican Centre in London \[[^1]\].
 Premiere information: Premiered by the Berlin Philharmonic in 2011,
 with Simon Rattle conducting \[[^2]\].
 
-Published by: Schott Music
+Published by: Schott Music Co. Ltd., Tokyo
 
 Recording history: This piece was recorded by the Royal Scottish National
 Orchestra for a 2014 CD by Naxos (8.537239). There don't

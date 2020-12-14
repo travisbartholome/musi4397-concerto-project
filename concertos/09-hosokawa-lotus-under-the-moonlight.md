@@ -12,7 +12,7 @@ dedicated to Momo Kodama, the premiere pianist \[[^1]\].
 Premiere information: Premiered by the NDR Sinfonieorchester in Hamburg (Germany),
 2006, with Momo Kodama on piano and Jun Märkl conducting \[[^2]\].
 
-Published by: Schott Music
+Published by: Schott Music Co. Ltd., Tokyo
 
 Recording history: This piece was recorded by the Royal Scottish National
 Orchestra for a 2014 CD by Naxos (8.537239). There don't
