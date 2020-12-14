@@ -74,13 +74,13 @@ Some fragments of the A theme are audible.
 
 3:35 - Orchestra reenters. Piano restates the A theme, then the B theme,
 and both the piano and orchestra switch back and forth between them.
-Sounds loosely like a recapitulation.
+Loosely resembles a recapitulation.
 
 4:58 - One last statement of the A theme in the piano.
 
 ### Mvt. 2 (5:12)
 
-This movment is short and consists of two main sections.
+This movement is short and consists of two main sections.
 
 5:12 - Solo piano plays free, rhapsodic lines, occasionally broken up by a
 sforzando string entrance followed by a downward glissando.

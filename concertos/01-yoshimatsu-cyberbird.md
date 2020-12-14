@@ -21,6 +21,8 @@ There don't appear to be any other significant recordings.
 
 Yoshimatsu has written quite a few concertos (10) for a variety of solo instruments,
 so it seemed appropriate to include one on this list.
+Outside of the concert hall, he's probably best known as the composer for
+the 2003 remake of *Astro Boy* (a classic anime).
 He's an interesting composer in the sense that his music is quite tonal, and his style is
 heavily influenced by Western popular music - namely, jazz and rock.
 The Cyber-bird Concerto, with its various jazz elements ranging from swing sections to
