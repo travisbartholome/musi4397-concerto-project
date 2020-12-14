@@ -47,7 +47,54 @@ However, this work doesn't include that feature of his style.
 
 ## Analysis
 
-TODO
+Timestamps refer to the recording by the Saito Kinen Orchestra, with violist
+Nobuko Imai (embedded below).
+
+Most of the melodic material in this piece appears to be based off of the same
+basic figure, so the interest largely comes from changes in the
+orchestration and harmony.
+One of the most consistent and interesting features is the way that Takemitsu
+takes dissonant, rough textures and turns them into lush harmonies and lyrical
+lines, with seemingly no need for transition - it's as if the dissonance
+just evaporates, leaving consonance behind.
+
+0:00 - Initial orchestral sound is established.
+Some interesting moments where dissonance suddenly breaks through into rich,
+consonant harmonies.
+
+0:38 - Viola entry.
+Somewhat dissonant at first, then the end of the first phrase dissolves into
+consonance, and the second phrase is backed by rich harmonies in the orchestra.
+
+2:10 - Viola plays over sustained low pitches for a short while.
+
+2:30 - Strings reenter. Some interesting figures in the flute (flutter-tongued),
+clarinet, and harp provide textural variety.
+
+3:33 - A very lyrical, harmonious line in the viola.
+It's taken up by various woodwinds.
+
+4:52 - A somewhat aggressive-sounding orchestra texture that once again
+evaporates into lush harmonies and a viola melody.
+
+6:15 - A very French-sounding moment here (inspiration from Debussy, perhaps?).
+
+8:25 - A dramatic moment of dissonance, made more effective by some extended
+techniques in the strings.
+
+9:06 - Melancholy-sounding viola entry; the strings are still producing a somewhat
+unsettling background texture.
+
+9:48 - The "unsettling" string texture gradually morphs into a more consonant
+one, with interesting in-between states where the two textures mix.
+
+12:34 - A cadenza-like moment for the viola (orchestral accompaniment drops out).
+Not particularly virtuosic, but it definitely has an impassioned, improvised
+character.
+
+13:55 - Orchestra reenters. Lush, consonant harmony again, with viola melody.
+This continues (with a few short moments where dissonance returns) until the
+end of the piece.
 
 ## Recordings
 
@@ -61,7 +108,12 @@ Recording information \[[^5]\]:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Us4CygxP7pI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-TODO - commentary
+This recording takes its time with the music; in particular, Imai takes fairly
+relaxed tempos in the free parts of the music and seems very willing
+to let the viola lines stretch out or "breathe" a bit.
+The orchestra also noticeably lingers in the consonant sections, which makes
+them very effective as resting places/arrivals from the dissonant areas that
+precede them.
 
 ### Japan Philharmonic (2017)
 
@@ -73,7 +125,10 @@ Recording information \[[^6]\]:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/os5kL3KNmb4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-TODO - commentary
+This recording feels quicker overall than the Saito Kinen recording (even
+though the overall runtime is fairly similar).
+As a result, it feels a little rushed by comparison; however, some of the
+phrasing does seem to come through a bit more easily at the quicker pace.
 
 ## References
 
