@@ -31,6 +31,7 @@ Year |              Composer             | Solo instrument | Title and link
 1987 | 武満 徹 Takemitsu, Toru            | Flute           | [I Hear the Water Dreaming](./concertos/12-takemitsu-water-dreaming.md)
 1989 | 武満 徹 Takemitsu, Toru            | Viola           | [A String Around Autumn](./concertos/02-takemitsu-a-string-around-autumn.md)
 1994 | 吉松 隆 Yoshimatsu, Takashi        | Alto saxophone  | ["Cyber-bird" Concerto](./concertos/01-yoshimatsu-cyberbird.md)
+1995 | 林 光 Hayashi, Hikaru              | Viola           | [Viola Concerto, "Elegia"](./concertos/11-hayashi-viola-concerto-elegia.md)
 1997 | 吉松 隆 Yoshimatsu, Takashi        | Piano           | [Piano Concerto "Memo Flora," Op. 67](./concertos/13-yoshimatsu-memo-flora.md)
 2002 | 佐藤 聰明 Satoh, Somei             | Violin          | [Violin Concerto](./concertos/10-satoh-violin-concerto.md)
 2006 | 細川 俊夫 Hosokawa, Toshio         | Piano           | [Lotus under the moonlight](./concertos/09-hosokawa-lotus-under-the-moonlight.md)
