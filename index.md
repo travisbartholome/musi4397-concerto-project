@@ -27,6 +27,7 @@ Year |              Composer             | Solo instrument | Title and link
 :--: | :-------------------------------: | :-------------: | :------------:
 1967 | 矢代 秋雄 Yashiro, Akio            | Piano           | [Piano Concerto](./concertos/08-yashiro-piano-concerto.md)
 1967 | 長沢 勝俊 Nagasawa, Katsutoshi     | Shamisen        | [Shamisen Concerto](./concertos/06-nagasawa-shamisen-concerto.md)
+1969 | 別宮 貞雄 Bekku, Sadao             | Violin          | [Violin Concerto](./concertos/05-bekku-violin-concerto.md)
 1989 | 武満 徹 Takemitsu, Toru            | Viola           | [A String Around Autumn](./concertos/02-takemitsu-a-string-around-autumn.md)
 1994 | 吉松 隆 Yoshimatsu, Takashi        | Alto saxophone  | ["Cyber-bird" Concerto](./concertos/01-yoshimatsu-cyberbird.md)
 2002 | 佐藤 聰明 Satoh, Somei             | Violin          | [Violin Concerto](./concertos/10-satoh-violin-concerto.md)
