@@ -13,8 +13,9 @@ but still something that had an approachable starting point.
 I had encountered several great pieces by some contemporary Japanese
 composers, so it seemed like an interesting topic to explore further.
 There also isn't all that much English-language commentary or criticism about
-classical music from Japan, even though there does seem to be a decent amount
-of repertoire, and information in an academic context is even more sparse.
+classical music from Japan (relative to that about music by Western composers),
+even though there does seem to be a decent amount of repertoire, and
+information in an academic context is even more sparse.
 So it's kind of fun to explore.
 
 ## Works
@@ -28,6 +29,7 @@ Year |              Composer             | Solo instrument | Title and link
 1967 | 長沢 勝俊 Nagasawa, Katsutoshi     | Shamisen        | [Shamisen Concerto](./concertos/06-nagasawa-shamisen-concerto.md)
 1989 | 武満 徹 Takemitsu, Toru            | Viola           | [A String Around Autumn](./concertos/02-takemitsu-a-string-around-autumn.md)
 1994 | 吉松 隆 Yoshimatsu, Takashi        | Alto saxophone  | ["Cyber-bird" Concerto](./concertos/01-yoshimatsu-cyberbird.md)
+2002 | 佐藤 聰明 Satoh, Somei             | Violin          | [Violin Concerto](./concertos/10-satoh-violin-concerto.md)
 2006 | 細川 俊夫 Hosokawa, Toshio         | Piano           | [Lotus under the moonlight](./concertos/09-hosokawa-lotus-under-the-moonlight.md)
 2010 | 細川 俊夫 Hosokawa, Toshio         | Horn            | [Horn Concerto, "Moment of Blossoming"](./concertos/07-hosokawa-moment-of-blossoming.md)
 2013 | 池辺 晋一郎 Ikebe, Shin-ichiro     | Piano left hand | [“To a West Wind” Concerto](./concertos/03-ikebe-to-a-west-wind.md)

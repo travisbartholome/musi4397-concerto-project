@@ -30,6 +30,10 @@ On top of that, it's short and a nice piece, so I decided to include it.
 
 ## Analysis
 
+Timestamps refer to the embedded tracks for each movement.
+
+Volume warning: Spotify embeds can be pretty loud sometimes.
+
 ### Movement I
 
 <iframe src="https://open.spotify.com/embed/track/4md2nmTZ1knsoIgQcBx236" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

@@ -12,7 +12,7 @@ Premiere information: Premiered by the NHK Symphony Orchestra in 1967
 (broadcast performance) with piano soloist Hiroko Nakamura and conductor
 Hiroshi Wakasugi \[[^1]\].
 
-Published by: Ongaku no Tomo
+Published by: Ongaku no Tomo Sha Corp.
 
 Recording history: The live premiere (different from the broadcast premiere)
 of the piece at the Tokyo Cultural Center in 1968 was recorded; this recording
