@@ -1,4 +1,4 @@
-# 吉松 隆 Yoshimatsu, Takashi - "Cyber-bird" Concerto, Op. 59
+# 吉松 隆 Yoshimatsu, Takashi - "Cyber Bird" Concerto, Op. 59
 
 ## Background information
 
@@ -26,7 +26,7 @@ the 2003 remake of *Astro Boy* (a classic anime).
 He's an interesting composer in the sense that his music is quite tonal, and his style is
 heavily influenced by Western popular music - namely, jazz and rock.
 
-The Cyber-bird Concerto, with its various jazz elements ranging from swing sections to
+The Cyber Bird Concerto, with its various jazz elements ranging from swing sections to
 sections of free jazz imitation, illustrates these characteristics well.
 The piece is also interesting because while it predominantly features the saxophone,
 the piano and drumset/percussion are also afforded significant solo roles.
