@@ -36,6 +36,7 @@ Year |              Composer             | Solo instrument | Title and link
 2006 | 細川 俊夫 Hosokawa, Toshio         | Piano           | [Lotus under the moonlight](./concertos/09-hosokawa-lotus-under-the-moonlight.md)
 2010 | 細川 俊夫 Hosokawa, Toshio         | Horn            | [Horn Concerto, "Moment of Blossoming"](./concertos/07-hosokawa-moment-of-blossoming.md)
 2013 | 池辺 晋一郎 Ikebe, Shin-ichiro     | Piano left hand | [“To a West Wind” Concerto](./concertos/03-ikebe-to-a-west-wind.md)
+2017 | 藤倉 大 Fujikura, Dai              | Tuba            | [Tuba Concerto](./concertos/14-fujikura-tuba-concerto.md)
 
 ## Notes
 

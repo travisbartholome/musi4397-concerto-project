@@ -46,9 +46,9 @@ Kyoko Tabe (embedded below).
 
 In his liner note, Yoshimatsu writes that this movement is in a "pseudo-sonata"
 form.
-The movement of recapitulation seems pretty obscured to me, but otherwise I've
+The moment of recapitulation seems pretty obscured to me, but otherwise I've
 added approximate sonata-form indications to the analysis below (where they
-seem appropriate).
+seem reasonable).
 
 0:00 - The piece begins with the piano and orchestra slowly unfolding from silence.
 
