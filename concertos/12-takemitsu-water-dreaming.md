@@ -33,7 +33,8 @@ Several of Takemitsu's works feature themes related to water and dreams, so
 this concerto ties in excellently.
 Here, he uses delicate shifts in orchestration to produce different textures,
 overall creating music with an ephemeral, "dreamlike" sense.
-It also features some interesting timbre trills in the solo flute part \[[^3]\]\[[^4]\].
+It also features some interesting effects like timbre trills and pitch bends
+in the solo flute part \[[^3]\]\[[^4]\].
 
 ## Analysis
 
@@ -115,7 +116,8 @@ the piece seems quite a bit more aggressive.
 The performers are free with time, which in some cases means they speed up
 quite a lot during phrases; Gallois, the soloist, also seems to have a more
 aggressive articulation and phrasing style than Pahud does.
-The end result sounds very dynamic but loses a bit of the dreamy atmosphere.
+The end result is still good and sounds very dynamic, but it loses a bit of
+the dreamy atmosphere.
 
 ## References
 
