@@ -37,21 +37,81 @@ for unique combinations of sound masses - also an interesting piece.)
 
 Timestamps refer to the recording linked below (CMCD-99083～4).
 
-Note that this concerto is in three unnamed movements (TODO: provide timestamps for movements).
+Note that this concerto is in three unnamed movements; I've put the timestamps
+in the heading for each movement.
 
-### Mvt. 1
+### Mvt. 1 (0:00)
 
-- 0:00 | Orchestral opening, with a simple melody in the oboe
-- 0:24 | Solo piano states its first theme
-- 0:27 | Orchestra returns with its opening theme (now in bassoon). Some slight development
-- 0:40 | Solo piano restates its theme and develops it slightly as well
-- 0:51 | Piano and orchestra play together, each seeming to develop on their own thematic ideas
-- 1:06 | Solo piano chordal interlude
-- 1:12 | Piano and orchestra together again; piano takes the orchestra's opening theme. Piano rhythm speeds up and morphs into repeated patterns
-- 1:39 | Thematic return?
-- 1:45 | Piano variation on the opening orchestral theme (bass line), with large intervals and dense rhythms
+0:00 - Orchestral opening, with a simple melody in the oboe ("A" theme).
 
-TODO - finish analysis of this and remaining movements
+0:24 - Solo piano states its first theme ("B" theme).
+
+0:27 - Orchestra returns with its opening theme ("A," now in the bassoon).
+Some slight development.
+
+0:40 - Solo piano restates its theme ("B") and develops it slightly as well.
+
+0:51 - Piano and orchestra play together, each seeming to develop on their own
+thematic ideas.
+The staccato accompaniment brought up by the orchestra here becomes a fixture
+for the rest of the movement.
+
+1:06 - Solo piano chordal interlude.
+
+1:12 - Piano and orchestra together again; piano takes the A theme instead of
+the orchestra.
+Piano rhythm eventually speeds up and morphs into repeated patterns.
+
+1:45 - Piano variation on the B theme.
+
+2:01 - Piano variation on the A theme.
+
+2:23 - Piano variation combining both themes.
+Some trading back and forth with the orchestra.
+
+2:52 - Solo piano interlude (cadenza?).
+Some fragments of the A theme are audible.
+
+3:35 - Orchestra reenters. Piano restates the A theme, then the B theme,
+and both the piano and orchestra switch back and forth between them.
+Sounds loosely like a recapitulation.
+
+4:58 - One last statement of the A theme in the piano.
+
+### Mvt. 2 (5:12)
+
+This movment is short and consists of two main sections.
+
+5:12 - Solo piano plays free, rhapsodic lines, occasionally broken up by a
+sforzando string entrance followed by a downward glissando.
+
+6:26 - Lyrical figures in the strings (rhythmic unison), which the piano plays
+alongside.
+Here, the piano is essentially acting as a member of the string section, just
+with a different tone.
+
+### Mvt. 3 (7:38)
+
+7:38 - Orchestra begins the movement with a fiery staccato texture.
+
+7:52 - The piano takes up this texture as the orchestra drops out.
+At 7:59, the theme for this movement is stated clearly in the piano.
+
+From here, the orchestra and piano trade off material based around
+this theme in the same staccato style.
+Gradually, the trading starts to happen in progressively smaller chunks.
+
+8:58 - At this point, the piano and orchestra parts play simultaneously,
+although they have different cross-rhythms which creates a dense syncopated
+texture (somewhat like hocketing, but I think there are moments where the
+orchestra and piano play on the same beat).
+
+9:22 - A sudden texture shift, leading to a solo piano section (cadenza?).
+The piano brings back the A theme from the first movement and merges it with
+the staccato theme from the third movement (see 7:59).
+
+10:10 - Orchestra reenters; orchestra and piano play the third-movement
+theme until the end.
 
 ## Recordings
 
@@ -65,7 +125,12 @@ Recording information \[[^4]\]:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K6hBrJ2CbLg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-TODO - commentary
+This performance feels clean but not dull.
+The pianist and orchestra bring out the themes where appropriate in a way that
+makes the thematic manipulations that are going on easier to hear.
+The dynamic contrast in this recording feels a bit compressed; I'm not sure if
+that's because of the recording, the music itself, the performance, or the fact
+that I'm listening to it on YouTube.
 
 ## References
 

@@ -9,8 +9,8 @@ Composed: 1989
 Important figures (besides the commissioning group and premiere artists, discussed later):
 The title of the work comes from a poem by Japanese poet Makoto Ooka \[[^1]\].
 
-Premiere information: The piece was premiered by violist Nobuko Imai,
-with Kent Nagano conducting \[[^2]\].
+Premiere information: The piece was premiered by violist Nobuko Imai and the
+Orchestre de Paris, with Kent Nagano conducting \[[^2]\].
 
 Published by: Schott Music Co. Ltd., Tokyo
 

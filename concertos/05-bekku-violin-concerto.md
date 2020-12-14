@@ -9,7 +9,7 @@ Composed: 1969
 Published by: Zen-On Music Co., Ltd. \[[^1]\]
 
 Recording history: Released on a 2002 CD from Sony Classical (SICC-48) \[[^2]\]
-and a 2014 CD from Naxos Japan (NYNN-0033) that was recorded in 1969, (possibly
+and a 2014 CD from Naxos Japan (NYNN-0033) that was recorded in 1969 (possibly
 the premiere recording?) \[[^3]\].
 
 Premiere and commission information: unable to find.
@@ -19,17 +19,18 @@ Premiere and commission information: unable to find.
 Bekku initially learned composition as a hobby and graduated from the
 University of Tokyo with a physics degree, intending to make that his
 profession.
-However, he got more into composition and eventually went to Paris and
-studied with Milhaud and Messiaen at the Paris Conservatoire from 1951-54.
+However, he later got more into composition, and he eventually went to Paris
+to study with Milhaud and Messiaen at the Paris Conservatoire from 1951-54.
 His concert works include four symphonies, three concertos (violin, viola,
 and cello), three operas, and some art songs (including the popular
-"Sakura Yokocho," or "Cherry Blossom Lane").
+"Sakura Yokocho," or "Cherry Blossom Lane") \[[^4]\].
 
-Bekku's musical taste was less avant-garde than some of his contemporaries;
-he explores chromaticism thoroughly but is not a twelve-tone composer, and
-he priorities a sense of lyricism/melody in his music.
+Bekku's musical taste was less avant-garde than some of his contemporaries.
+He explores chromaticism thoroughly but is not a twelve-tone composer, and
+he prioritizes a sense of lyricism/melody in his music \[[^5]\].
 The violin concerto reflects these attitudes: while the tonality gets pretty
-thorny at times, the piece never loses its sense of melody \[[^4]\].
+thorny at times, the piece never loses its sense of melody, and melodic
+development acts as a basic structural device in the piece.
 
 ## Analysis
 
@@ -118,7 +119,7 @@ The manipulation of this theme lasts until the piece comes to a dramatic finish.
 
 ### NHK Symphony Orchestra (1969, released in 2014)
 
-Recording information \[[^5]\]:
+Recording information \[[^6]\]:
 - Violin: Yuriko Kuronuma
 - Conductor: Hiroshi Wakasugi
 - Label: Naxos Japan
@@ -127,7 +128,7 @@ Recording information \[[^5]\]:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WNvwBKwGUOY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 My favorite part of this recording is probably the lyrical style that everyone
-in the ensemble uses - not just the soloist, but also the orchestra as well
+in the ensemble uses - not just the soloist but the orchestra as well
 (particularly the secondary soloists when applicable).
 Technically speaking, it also sounds quite clean, although there are a few
 noticeable oddities as one might expect from an early performance of the piece
@@ -135,7 +136,7 @@ noticeable oddities as one might expect from an early performance of the piece
 
 ### Tokyo Metropolitan Symphony Orchestra (2002)
 
-Recording information \[[^6]\]:
+Recording information \[[^7]\]:
 - Violin: Teiko Maehashi
 - Conductor: Hiroshi Wakasugi
 - Label: Sony Classical
@@ -154,6 +155,8 @@ seemed good to put the basic information here anyway.
 
 [^4]: "Sadao Bekku: Profile." BCA Music (publisher website, now defunct). <https://web.archive.org/web/20080517110225/http://www.bcamusic.com/bekku/bekku.html>.
 
-[^5]: See source 3.
+[^5]: See source 4.
 
-[^6]: See source 2.
+[^6]: See source 3.
+
+[^7]: See source 2.
